@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox fx:id="vBox" alignment="CENTER" prefHeight="4.0" prefWidth="54.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.lawrence.mazedrawing.PrimaryController">
+   <children>
+      <Label fx:id="score" prefHeight="14.0" prefWidth="82.0" text="Score:" />
+   </children>
+</VBox>
